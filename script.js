@@ -32,7 +32,7 @@ else{
   return "There are not any teams in this state";
 }
 }
-console.log(getState("ohio"));
+
 
 
 
@@ -64,7 +64,7 @@ else{
 }
   
 }
-console.log(getConference("nfc"))
+
 
 //This function has the user choose any division from the NFL. The program would display every team in the chosen division. For example, if they pick the AFC North, it will show the Bengals, Steelers, Browns, and the Ravens. If the division does not exist the program would return "This division does not exist"
 
@@ -91,7 +91,7 @@ else{
   return "This division does not exist";
 }
 }
-console.log(getDivision("NFC",  "West"));
+
 
 
 
@@ -122,7 +122,7 @@ else{
 }
   
 }
-console.log(getStadium("Washington Commanders"));
+
 
 
 //This function has the user pick any team from the NFL. Depending on the team chosen, it would display the details for that team. (Conference, Division, City, Stadium, Capacity, Head Coach, and the Image). If the team does not exist the program would return "This team does not exist"
@@ -154,7 +154,7 @@ else{
 }
   
 }
-console.log(getTeam("Bengals"));
+
 
 
 
