@@ -18,7 +18,7 @@ id,Conference,Division,Team,City,Stadium,Capacity,Head coach,Image
 17,NFC,East,Dallas Cowboys,"Arlington, Texas",AT&T Stadium,80000.0,Mike McCarthy,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dallas_Cowboys.svg/100px-Dallas_Cowboys.svg.png
 18,NFC,East,New York Giants,"East Rutherford, New Jersey",MetLife Stadium,82500.0,Joe Judge,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/100px-New_York_Giants_logo.svg.png
 19,NFC,East,Philadelphia Eagles,"Philadelphia, Pennsylvania",Lincoln Financial Field,69176.0,Doug Pederson,https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Philadelphia_Eagles_logo.svg/100px-Philadelphia_Eagles_logo.svg.png
-20,NFC,East,Washington Football Team,"Landover, Maryland",FedExField,82000.0,Ron Rivera,https://lh3.googleusercontent.com/proxy/x9niGQ2TW4-IXVve08RnhpaRkktO0maH87cUbxHJ1ykbASDxjDeepcNwBGf71KXHAw7W3DWgT3ksFg6DYCwOSmSSaaO70gYDdfq1i5j87ZYYpb8RvSjawBouDPv1eEaqjXnbUdA
+20,NFC,East,Washington Commanders,"Landover, Maryland",FedExField,82000.0,Ron Rivera,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Washington_Commanders_logo.svg/150px-Washington_Commanders_logo.svg.png
 21,NFC,North,Chicago Bears,"Chicago, Illinois",Soldier Field,61500.0,Matt Nagy,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chicago_Bears_logo.svg/100px-Chicago_Bears_logo.svg.png
 22,NFC,North,Detroit Lions,"Detroit, Michigan",Ford Field,65000.0,Matt Patricia,https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Detroit_Lions_logo.svg/100px-Detroit_Lions_logo.svg.png
 23,NFC,North,Green Bay Packers,"Green Bay, Wisconsin",Lambeau Field,81441.0,Matt LaFleur,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Green_Bay_Packers_logo.svg/100px-Green_Bay_Packers_logo.svg.png
